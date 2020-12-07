@@ -1,2 +1,7 @@
 # finance_tool
---python
+--python--
+## Section 1: simulate and read data
+** one fuction**
+- 
+
+
